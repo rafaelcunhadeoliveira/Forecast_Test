@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "47a27a872d1c468c683f8f17663c415c"
+build_time: [1594937787, 268740000]
+inputs:
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/Controller/Service/RequestBase.swift": [1594937719, 174051942]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/Controller/Service/ServiceRequest .swift": [1594937719, 158638873]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/View/Cell/NewsTableViewCell.swift": [1594936233, 94899967]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/Model/ViewController+Extension.swift": [1594937719, 114995185]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/View/HomeViewController.swift": [1594937719, 104267657]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/View/Cell/ForecastTableViewCell.swift": [1594936233, 131154691]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/Model/News.swift": [1594935686, 197426982]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/Model/Image+Extension.swift": [1594934926, 22853809]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/View/Cell/CityTableViewCell.swift": [1594936233, 81779672]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/View/HomeViewModel.swift": [1594937787, 200850495]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/App/AppDelegate.swift": [1594767001, 516257873]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/App/SceneDelegate.swift": [1594767001, 526223414]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/Model/Weather.swift": [1594935686, 210283563]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/Model/String+Extension.swift": [1594934926, 4914555]
+  "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/Forecast_Test/View/Cell/NewsHeaderTableViewCell.swift": [1594868240, 179308790]

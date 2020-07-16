@@ -1,0 +1,426 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NumberDays"
+- "HomeViewModel"
+provides-nominal:
+- "13Forecast_Test10NumberDaysO"
+- "13Forecast_Test13HomeViewModelC"
+provides-member:
+- ["13Forecast_Test10NumberDaysO", ""]
+- ["13Forecast_Test13HomeViewModelC", ""]
+provides-dynamic-lookup:
+- "city"
+- "errorMessage"
+- "fiveDayForecast"
+- "forecast"
+- "formatDateForecast"
+- "getCurrentTemp"
+- "getImage"
+- "getInfo"
+- "getMaxMinTemp"
+- "getNews"
+- "getNextDateForecast"
+- "getWeather"
+- "mainGroup"
+- "news"
+- "searchSecondaryInfo"
+- "secondaryGroup"
+- "service"
+- "weather"
+depends-top-level:
+- !private "*"
+- "=="
+- !private ">"
+- !private "??"
+- "AssignmentPrecedence"
+- "CustomError"
+- !private "Date"
+- "DispatchGroup"
+- "Double"
+- "FloatLiteralType"
+- "Forecast"
+- "ForecastByDate"
+- "HomeViewModel"
+- "Int"
+- "IntegerLiteralType"
+- "News"
+- "NumberDays"
+- "ServiceRequest"
+- "String"
+- "StringLiteralType"
+- "UIImage"
+- "UnicodeScalarType"
+- "Void"
+- "WeatherStats"
+- !private "~="
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "toDate"]
+- !private ["SB", "init"]
+- !private ["s7CVarArgP", "enter"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "leave"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "notify"]
+- !private ["s7CVarArgP", "toDate"]
+- !private ["13Forecast_Test4CityV", "country"]
+- !private ["Sl", "init"]
+- !private ["Sl", "toDate"]
+- !private ["SL", "advanced"]
+- !private ["SL", "init"]
+- !private ["SL", "toDate"]
+- !private ["s28CustomDebugStringConvertibleP", "advanced"]
+- !private ["s28CustomDebugStringConvertibleP", "enter"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "leave"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "notify"]
+- !private ["s28CustomDebugStringConvertibleP", "toDate"]
+- !private ["s17CustomReflectableP", "advanced"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "toDate"]
+- !private ["s23CustomStringConvertibleP", "advanced"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "enter"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "leave"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "notify"]
+- !private ["s23CustomStringConvertibleP", "toDate"]
+- !private ["10Foundation4DateV", "advanced"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["Se", "advanced"]
+- !private ["Se", "city"]
+- !private ["Se", "country"]
+- !private ["Se", "date"]
+- !private ["Se", "init"]
+- !private ["Se", "list"]
+- !private ["Se", "temp"]
+- !private ["Se", "tempAttributes"]
+- !private ["Se", "tempMax"]
+- !private ["Se", "tempMin"]
+- !private ["Se", "toDate"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["So17OS_dispatch_groupC", "enter"]
+- ["So17OS_dispatch_groupC", "init"]
+- !private ["So17OS_dispatch_groupC", "leave"]
+- !private ["So17OS_dispatch_groupC", "notify"]
+- !private ["So18OS_dispatch_objectC", "enter"]
+- ["So18OS_dispatch_objectC", "init"]
+- !private ["So18OS_dispatch_objectC", "leave"]
+- !private ["So18OS_dispatch_objectC", "main"]
+- !private ["So18OS_dispatch_objectC", "notify"]
+- !private ["So17OS_dispatch_queueC", "main"]
+- !private ["Sd", "init"]
+- !private ["SE", "advanced"]
+- !private ["SE", "init"]
+- !private ["SE", "toDate"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "advanced"]
+- !private ["SQ", "enter"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- !private ["SQ", "leave"]
+- !private ["SQ", "main"]
+- !private ["SQ", "notify"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "toDate"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "toDate"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "toDate"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "toDate"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "toDate"]
+- !private ["SF", "init"]
+- !private ["13Forecast_Test0A0V", "city"]
+- !private ["13Forecast_Test0A0V", "list"]
+- !private ["13Forecast_Test0A6ByDateV", "date"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "advanced"]
+- !private ["SH", "enter"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- !private ["SH", "leave"]
+- !private ["SH", "main"]
+- !private ["SH", "notify"]
+- ["SH", "rawValue"]
+- !private ["SH", "toDate"]
+- ["13Forecast_Test13HomeViewModelC", "CustomError"]
+- !private ["13Forecast_Test13HomeViewModelC", "Date"]
+- ["13Forecast_Test13HomeViewModelC", "DispatchGroup"]
+- ["13Forecast_Test13HomeViewModelC", "Double"]
+- ["13Forecast_Test13HomeViewModelC", "Forecast"]
+- ["13Forecast_Test13HomeViewModelC", "ForecastByDate"]
+- ["13Forecast_Test13HomeViewModelC", "News"]
+- ["13Forecast_Test13HomeViewModelC", "NumberDays"]
+- ["13Forecast_Test13HomeViewModelC", "ServiceRequest"]
+- ["13Forecast_Test13HomeViewModelC", "String"]
+- ["13Forecast_Test13HomeViewModelC", "UIImage"]
+- ["13Forecast_Test13HomeViewModelC", "Void"]
+- ["13Forecast_Test13HomeViewModelC", "WeatherStats"]
+- ["13Forecast_Test13HomeViewModelC", "city"]
+- ["13Forecast_Test13HomeViewModelC", "deinit"]
+- ["13Forecast_Test13HomeViewModelC", "errorMessage"]
+- ["13Forecast_Test13HomeViewModelC", "fiveDayForecast"]
+- ["13Forecast_Test13HomeViewModelC", "forecast"]
+- ["13Forecast_Test13HomeViewModelC", "formatDateForecast"]
+- ["13Forecast_Test13HomeViewModelC", "getCurrentTemp"]
+- ["13Forecast_Test13HomeViewModelC", "getImage"]
+- ["13Forecast_Test13HomeViewModelC", "getInfo"]
+- ["13Forecast_Test13HomeViewModelC", "getMaxMinTemp"]
+- ["13Forecast_Test13HomeViewModelC", "getNews"]
+- ["13Forecast_Test13HomeViewModelC", "getNextDateForecast"]
+- ["13Forecast_Test13HomeViewModelC", "getWeather"]
+- ["13Forecast_Test13HomeViewModelC", "init"]
+- ["13Forecast_Test13HomeViewModelC", "mainGroup"]
+- ["13Forecast_Test13HomeViewModelC", "news"]
+- ["13Forecast_Test13HomeViewModelC", "searchSecondaryInfo"]
+- ["13Forecast_Test13HomeViewModelC", "secondaryGroup"]
+- ["13Forecast_Test13HomeViewModelC", "service"]
+- ["13Forecast_Test13HomeViewModelC", "weather"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "toDate"]
+- !private ["13Forecast_Test4MainV", "temp"]
+- !private ["13Forecast_Test4MainV", "tempMax"]
+- !private ["13Forecast_Test4MainV", "tempMin"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "toDate"]
+- !private ["So8NSCodingP", "toDate"]
+- !private ["So9NSCopyingP", "toDate"]
+- !private ["So21NSItemProviderReadingP", "toDate"]
+- !private ["So21NSItemProviderWritingP", "toDate"]
+- !private ["So16NSMutableCopyingP", "toDate"]
+- !private ["So8NSObjectC", "enter"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "leave"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "notify"]
+- !private ["So8NSObjectC", "toDate"]
+- !private ["So8NSObjectP", "enter"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "leave"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "notify"]
+- !private ["So8NSObjectP", "toDate"]
+- !private ["So14NSSecureCodingP", "toDate"]
+- !private ["So8NSStringC", "toDate"]
+- ["13Forecast_Test10NumberDaysO", "=="]
+- ["13Forecast_Test10NumberDaysO", "RawValue"]
+- ["13Forecast_Test10NumberDaysO", "_Default_RawValue"]
+- ["13Forecast_Test10NumberDaysO", "_rawHashValue"]
+- ["13Forecast_Test10NumberDaysO", "deinit"]
+- ["13Forecast_Test10NumberDaysO", "first"]
+- ["13Forecast_Test10NumberDaysO", "hash"]
+- ["13Forecast_Test10NumberDaysO", "hashValue"]
+- ["13Forecast_Test10NumberDaysO", "init"]
+- ["13Forecast_Test10NumberDaysO", "rawValue"]
+- ["13Forecast_Test10NumberDaysO", "second"]
+- ["13Forecast_Test10NumberDaysO", "third"]
+- !private ["Sj", "init"]
+- !private ["So9OS_objectC", "enter"]
+- ["So9OS_objectC", "init"]
+- !private ["So9OS_objectC", "leave"]
+- !private ["So9OS_objectC", "main"]
+- !private ["So9OS_objectC", "notify"]
+- !private ["Sm", "init"]
+- !private ["Sm", "toDate"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_rawHashValue"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+- !private ["10Foundation20ReferenceConvertibleP", "advanced"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["13Forecast_Test11RequestBaseC", "getForecast"]
+- !private ["13Forecast_Test11RequestBaseC", "getImage"]
+- !private ["13Forecast_Test11RequestBaseC", "getNewsByCountry"]
+- !private ["13Forecast_Test11RequestBaseC", "getWeatherForCity"]
+- ["13Forecast_Test11RequestBaseC", "init"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["7Combine9SchedulerP", "main"]
+- !private ["ST", "init"]
+- !private ["ST", "toDate"]
+- !private ["13Forecast_Test14ServiceRequestC", "getForecast"]
+- !private ["13Forecast_Test14ServiceRequestC", "getImage"]
+- !private ["13Forecast_Test14ServiceRequestC", "getNewsByCountry"]
+- !private ["13Forecast_Test14ServiceRequestC", "getWeatherForCity"]
+- ["13Forecast_Test14ServiceRequestC", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "toDate"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "init"]
+- !private ["Sy", "toDate"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "toDate"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "toDate"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "toDate"]
+- !private ["13Forecast_Test12WeatherStatsV", "tempAttributes"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "advanced"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "toDate"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "toDate"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "toDate"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "toDate"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "toDate"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "toDate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "enter"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "leave"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "notify"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toDate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "enter"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "leave"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "main"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "notify"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "toDate"]
+- !private ["s21_ObjectiveCBridgeableP", "advanced"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "toDate"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "SB"
+- "s7CVarArgP"
+- !private "13Forecast_Test4CityV"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- "So17OS_dispatch_groupC"
+- "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- !private "Sd"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SF"
+- !private "13Forecast_Test0A0V"
+- !private "13Forecast_Test0A6ByDateV"
+- "SH"
+- "13Forecast_Test13HomeViewModelC"
+- !private "s25LosslessStringConvertibleP"
+- !private "13Forecast_Test4MainV"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "13Forecast_Test10NumberDaysO"
+- !private "Sj"
+- "So9OS_objectC"
+- !private "Sm"
+- "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "13Forecast_Test11RequestBaseC"
+- !private "s10SIMDScalarP"
+- !private "7Combine9SchedulerP"
+- !private "ST"
+- "13Forecast_Test14ServiceRequestC"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "9Alamofire14URLConvertibleP"
+- !private "13Forecast_Test12WeatherStatsV"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/rafaelcunhadeoliveira/Documents/Forecast_Test/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f42492c803f6f55a522fd3694f2db31d"
